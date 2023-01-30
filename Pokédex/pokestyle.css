@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(./img/pokédex_Dexter.jpeg);
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+}
+
+#titulo{
+    text-align: right;
+}
+
+button{
+    background:cyan;
+    border:solid;
+    border-radius: 50%;
+    width: 100px;
+    padding: 40px;
+    font-size: medium;
+    
+}
+
+/* .clik { 
+    padding-left: 65px;
+    margin-top: 0px;
+}
+
+.Search {
+    padding-left:900px;
+    
+}
+
+img{
+    padding: 200px;
+}
+
+
+
+
